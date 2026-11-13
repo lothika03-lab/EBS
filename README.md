@@ -1,6 +1,6 @@
 # WORKING WITH EBS
-## NAME: Abinaya A P
-## REG NO: 212225220002
+## NAME:Lothika M
+## REG NO: 212225040211
 
 ## Aim
 
